@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ParcialMateo</string>
+    <string name="mateo">Mateo Ferrer</string>
+    <string name="milogin">Mi login</string>
+    <string name="parcial">Parcial1</string>
+    <string name="user">Usuario</string>
+    <string name="contra">Contraseña</string>
+</resources>
